@@ -13,7 +13,7 @@ fn variable(){
 }
 fn main() {
     let name = "Nguyen";
-    println!("Hello, {}",name);
+    println!("Hello :, {}",name);
     variable()    
 }
 
