@@ -14,3 +14,9 @@ fn main() {
     println!("Hello, {}",name);
 }
 ```
+
+## Variable
+```rust
+let x:i32 = 10;
+let y:i32 = 20;
+```
