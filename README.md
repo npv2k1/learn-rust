@@ -19,4 +19,6 @@ fn main() {
 ```rust
 let x:i32 = 10;
 let y:i32 = 20;
+let z = x+y;
+println!("x+y = {}",z);
 ```
