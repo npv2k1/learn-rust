@@ -1,6 +1,6 @@
 #![allow(dead_code)]
 
-use std::{io, num, str::FromStr};
+use std::{io, str::FromStr};
 
 fn read_string() -> String {
     println!("Nhập một dòng văn bản: ");
