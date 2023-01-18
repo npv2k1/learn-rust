@@ -1,5 +1,5 @@
 [package]
-name = "rust-basic"
+name = "learn-loop"
 version = "0.1.0"
 edition = "2021"
 
