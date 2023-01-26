@@ -23,6 +23,4 @@ fn main() {
     let mut x = 1;
     increment(&mut x);
     println!("x = {}", x);
-
-
 }
