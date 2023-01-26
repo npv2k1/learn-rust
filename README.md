@@ -25,3 +25,12 @@ Một số ví dụ:
 ## Rust với web
 
 rust có thể dùng để lập trình web frontend với webassembly
+
+
+## Cheatsheet
+
+Rust cheatsheet
+- https://cheats.rs/
+- https://quickref.me/rust
+
+
