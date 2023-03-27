@@ -1,0 +1,7 @@
+fn main() {
+    if 7 % 2 == 0 {
+        println!("7 is even");
+    } else {
+        println!("7 is odd");
+    }
+}
