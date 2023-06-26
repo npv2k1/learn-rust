@@ -1,4 +1,3 @@
-
 #[derive(Debug, Copy, Clone)]
 struct Point {
     x: f64,
@@ -24,7 +23,5 @@ fn main() {
     println!("length of a is {}", a.length());
     let b = Point { x: 5.0, y: 12.0 };
     println!("distance between a and b is {}", a.distance(&b));
-
     println!("point a: {:?}", a);
-
 }
